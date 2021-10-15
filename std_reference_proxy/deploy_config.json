@@ -1,0 +1,19 @@
+{
+  "uri": "https://ctz.solidwallet.io/api/v3",
+  "nid": "0x1",
+  "keyStore": null,
+  "from": "hx02e6bf5860b7d7744ec5050545d10d37c72ac2ef",
+  "to": "cx0000000000000000000000000000000000000000",
+  "deploy": {
+    "stepLimit": "0x009d7dae0",
+    "contentType": "zip",
+    "mode": "install",
+    "scoreParams": {
+      "_ref": "cx087b4164a87fdfb7b714f3bafe9dfb050fd6b132"
+    }
+  },
+  "txresult": {},
+  "transfer": {
+    "stepLimit": "0x10000"
+  }
+}
